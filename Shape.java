@@ -1,1 +1,5 @@
-public class Shape { int side = 4; }
+public class Shape {
+    int side = 4;
+    String type = "circle";
+}
+
